@@ -3,13 +3,13 @@
 ## I'm an Undergraduate and Freelancing Web Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn new Technolgoies
+- 🥅 2022 Goals: Learn new Technologies
 - ⚡ Fun fact: I love to watch Movies and practice Martial Arts
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://hashnode.com/@RaviBx#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://hashnode.com/@RaviBx#gh-dark-mode-only)
+[![website](./img/hashnode-light.svg)](https://hashnode.com/@RaviBx#gh-light-mode-only)
+[![website](./img/hashnode-dark.svg)](https://hashnode.com/@RaviBx#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/Raviblas#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Raviblas#gh-dark-mode-only)
