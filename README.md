@@ -19,6 +19,10 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/ravi_balasooriya/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/ravi_balasooriya/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/medium-light.svg)](https://medium.com/@ravishan_balasooriya#gh-light-mode-only)
+[![website](./img/medium-dark.svg)](https://medium.com/@ravishan_balasooriya#gh-dark-mode-only)
+
 
 ### Languages and Tools:
 
