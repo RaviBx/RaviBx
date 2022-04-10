@@ -1,6 +1,6 @@
 # Hi there, I'm RAVISHAN 👋 
 
-## I'm an Undergraduate and Freelancing Web Developer!!
+## I'm a Full Stack Developer and Undergraduate !!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn new Technologies
